@@ -1,0 +1,31 @@
+.title-label {
+	-fx-font-size: 36pt;
+	-fx-text-fill: white;
+	-fx-font-family: Calibri;
+	-fx-alignment: center;
+}
+
+.input-label, .output-label {
+	-fx-font-size: 12pt;
+	-fx-text-fill: white;
+}
+
+.output-ap {
+	-fx-border-color: white;
+	-fx-border-width: 3px;
+	-fx-border-radius: 15px;
+	-fx-background-color: pink;
+}
+
+.output-lblBox {
+	-fx-font-size: 12pt;
+	-fx-text-fill: green;
+	-fx-border-color: grey;
+	-fx-border-radius: 4px;
+	-fx-alignment: center;
+}
+
+.author-label {
+	-fx-font-size: 12pt;
+	-fx-text-fill: lightgray;
+}
